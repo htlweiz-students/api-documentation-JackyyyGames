@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AverageCalculatorTest
-build_property.ProjectDir = /workspace/api-documentation-JackyyyGames/AverageCalculatorTest/
+build_property.ProjectDir = /workspace/apidocumentation/api-documentation-JackyyyGames/AverageCalculatorTest/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

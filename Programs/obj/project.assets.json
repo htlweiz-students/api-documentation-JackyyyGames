@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/config/workspace/api-documentation-JackyyyGames/Programs/Programs.csproj",
+      "projectUniqueName": "/workspace/apidocumentation/api-documentation-JackyyyGames/Programs/Programs.csproj",
       "projectName": "Programs",
-      "projectPath": "/config/workspace/api-documentation-JackyyyGames/Programs/Programs.csproj",
+      "projectPath": "/workspace/apidocumentation/api-documentation-JackyyyGames/Programs/Programs.csproj",
       "packagesPath": "/config/.nuget/packages/",
-      "outputPath": "/config/workspace/api-documentation-JackyyyGames/Programs/obj/",
+      "outputPath": "/workspace/apidocumentation/api-documentation-JackyyyGames/Programs/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/config/.nuget/NuGet/NuGet.Config"
@@ -51,8 +51,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/config/workspace/api-documentation-JackyyyGames/AverageCalculator/AverageCalculator.csproj": {
-              "projectPath": "/config/workspace/api-documentation-JackyyyGames/AverageCalculator/AverageCalculator.csproj"
+            "/workspace/apidocumentation/api-documentation-JackyyyGames/AverageCalculator/AverageCalculator.csproj": {
+              "projectPath": "/workspace/apidocumentation/api-documentation-JackyyyGames/AverageCalculator/AverageCalculator.csproj"
             }
           }
         }
